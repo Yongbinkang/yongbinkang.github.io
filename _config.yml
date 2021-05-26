@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yong-Bin Kang/ Homepage for Yong-Bin Kang"
+title                    : "Yong-Bin Kang"
 title_separator          : "Data scientist"
 name                     : &name "Yong-Bin"
 description              : &description "personal description"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Yong-Bin Kang"
+  avatar           : "profile_monash.jpg"
+  bio              : "Senior data science research fellow for Centre of Excellence for Automated Decision Making and Society (ADM+S), Swinburne University"
+  location         : "Melbourne, Australia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
