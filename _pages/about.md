@@ -15,4 +15,6 @@ I am an intellectually curious and analytical data scientist with the ability to
 
 I have recently developed an NLP based technological trajectory for patent examination process in IP Australia during 2018 - 2020. As a computer scientist, I completed my PhD (Monash University, 2011) and was a core member of Swinburne’s Data Science Research Institute at Swinburne during 2018 - 2020. My research outcomes have been demonstrated by publications in Information Systems journal, WIREs data mining and knowledge discovery, JMIR public health and surveillance, IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Cybernetics. Some representative conference papers A/A* include AAAI, ECAI, ISWC, CIKM, K-CAP, and ACL.
 
-I have also experience teaching bachelors and master courses in the capacity of a lecturer the Faculty of IT at Monash University during 2014 - 2018. My teachings were focused on the areas of data science such as natural language processing, machine learning, and data mining and big data processing. 
+I have also experience teaching bachelors and master courses in the capacity of a lecturer and tutor in Faculty of IT at Monash University during 2014 - 2018. My teachings were focused on the areas of data science such as natural language processing, machine learning, and data mining and big data processing. 
+<!--     [this](#Buttons){: .btn--research} -->
+ 

@@ -84,11 +84,11 @@ author:
   avatar           : "profile_monash.jpg"
   bio              : "Senior data science research fellow for Centre of Excellence for Automated Decision Making and Society (ADM+S), Swinburne University"
   location         : "Melbourne, Australia"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "Swinburne University of Technology"
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com.au/citations?user=ECr8iagAAAAJ&hl=en"
+  email            : "ykang@swin.edu.au"
+  researchgate     :  "https://www.researchgate.net/profile/Yong-Bin-Kang"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Yongbinkang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://au.linkedin.com/in/yong-bin-kang-7a18413a"
+  orcid            : "https://orcid.org/0000-0002-0120-2582"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   ADM+S    : https://www.admscentre.org.au/
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#   twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -309,3 +309,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+exclude:
+  - vendor/
