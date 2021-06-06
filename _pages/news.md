@@ -2,16 +2,16 @@
 layout: archive
 permalink: /news/
 title: "Latest News" 
-
 ---
 
 {% include base_path %}
 
 
-* A paper about [inducing a subject term taxonomy](https://www.sciencedirect.com/science/article/abs/pii/S016792362100052X) has been published in *Decision Support Systems*, 2021.
-* A paper on [house price prediction]() using a graph embedding has been accepted in *Data Mining and Knowledge Discovery*, 2021.
-* A [software framework]() for an expert finding algorithm, [ExpFinder](), has been published in *Software Impacts*, 2021.
-* [XL-Sum](), a large multilingual abstractive summarisation dataset, has been accepted in *ACL (Association for Computational Linguistics) 2021*.
+* A journal paper about [inducing a subject term taxonomy](/publication/subject_tracker_2021) has been published in *Decision Support Systems*, 2021.
+* A journal paper on [house price prediction](/publication/house_price_prediction_2021) using a graph embedding has been accepted in *Data Mining and Knowledge Discovery*, 2021.
+* A journal paper about the [software framework](/publication/expfinder_software_2021) for an expert finding algorithm, ExpFinder, has been published in *Software Impacts*, 2021.
+* A expert finding algorithm, named [ExpFinder](/publication/expfinder_2021), has been published in arXiv and under review in TKDE.
+* [XL-Sum, a large multilingual abstractive summarisation dataset](/publication/ACL_Text_Summarization_2021), has been accepted in *ACL (Association for Computational Linguistics) 2021*.
 * An industry research project, funded by [Vidversity](https://vidversity.com/), has been commenced from March 2021: Question/Answer Generation and Assessment from Video using Natural Language Processing (Chief investigator). 
 
 
