@@ -1,7 +1,7 @@
 ---
 title: "Taxonomy Learning"
 layout: archive
-excerpt: "<img src='/images/research/Taxonomy_ex2.png' alt='Taxonomy Learning'>"
+excerpt: "<img src='/images/research/taxonomy_ex2.png' alt='Taxonomy Learning'>"
 collection: research
 order_number: 1
 header: 
