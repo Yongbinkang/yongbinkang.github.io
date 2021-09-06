@@ -16,6 +16,6 @@ This paper proposes a very large dataset for multilingual abstractive summarizat
 
 [ACL 2021 published](https://aclanthology.org/2021.findings-acl.413/)
 
-[Download paper](https://aclanthology.org/2021.findings-acl.413/)
+[Download paper](/files/research/GSNE_DMKD_published_2021.pdf/ACL_XLSum_2021.pdf)
 
 [Github code](https://github.com/csebuetnlp/xl-sum)
