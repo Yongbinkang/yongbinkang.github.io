@@ -7,7 +7,7 @@ venue: 'Data Mining and Knowledge Discovery'
 paperurl: '/files/research/GSNE_DMKD_published_2021.pdf'
 link: 'https://link.springer.com/article/10.1007/s10618-021-00789-x'
 github: 'https://github.com/Sarathismg/GSNE'
-citation: 'Sarkar Snigdha Sarathi Das, Mohammed Eunus Ali, Yuan-Fang Li, <b>Yong-Bin Kang</b>, Timos Sellis, Boosting House Price Predictions using Geo-Spatial Network Embedding, Data Mining and Knowledge Discovery (in press), 2021'
+citation: 'Sarkar Snigdha Sarathi Das, Mohammed Eunus Ali, Yuan-Fang Li, Yong-Bin Kang, Timos Sellis, Boosting House Price Predictions using Geo-Spatial Network Embedding, Data Mining and Knowledge Discovery, 2021. https://doi.org/10.1007/s10618-021-00789-x'
 ---
 
 This paper proposes a house price pridiction algorithm using geo-spatial network embedding.
