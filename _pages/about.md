@@ -26,7 +26,7 @@ I have also experience teaching bachelors and master courses in the capacity of 
     - Pusan National University
     - Thesis: [Character Grouping Technique Using 3-D Neighbourhood Graphs in Raster Map](/publication/ICPR_1998)
 
-## Funding
+## Recent Funding
   
   - 2021: Chief Investigator
     - Research and Development of a Solution for Question/Answer Generation and Assessment from Video using Natural Language Processing; [VidVersity](https://vidversity.com/) Fund Scheme
@@ -34,9 +34,7 @@ I have also experience teaching bachelors and master courses in the capacity of 
     - Development of Proof-of-Concept AI-based solution for SoA (Statement of Advice) Assessment; [Fourth Line](https://fourth-line.com.au/) Fund Scheme
   - 2018: Chief Investigator
     - Development of a deep-learning based solution for detecting corrosion in industrial assets using images captured from drones; Funded by [Robonomics AI](https://robonomicsai.com/)
-  - 2015: Chief Investigator
-    - Development of Clinical Research Database; Funded by Monash Institute of Medical Engineering
-
+  
 
 ## Work Experience
   - Senior Research Fellow
@@ -49,5 +47,3 @@ I have also experience teaching bachelors and master courses in the capacity of 
     - Institute for Graphic Interfaces (IGI), Korea
   - Researcher
     - [Electronics and Telecommunications Research Institute (ETRI)](https://www.etri.re.kr/eng/main/main.etri), Korea (2004 - 2006)
-  - Researcher and Developer
-    - Keystone Technologies Inc.
