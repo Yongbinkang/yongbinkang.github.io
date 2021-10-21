@@ -6,6 +6,8 @@ title: "Latest News"
 
 {% include base_path %}
 
+* A journal paper, entitled ["Keyword aware influential community search in large attributed graphs"](/publication/community_search_2021) has been published in *Information Systems*, 2021.
+* A conference paper, entitled [SRAuditor: An Automated Assessment Tool for Statement of Advice Documents](/publication/SRAuditor_2022) has been accepted in *HICSS-55 (55th of Hawaii International Conference on System Sciences)*, 2022.
 * A journal paper on [house price prediction](/publication/house_price_prediction_2021) using a graph embedding has been published in *Data Mining and Knowledge Discovery*, 2021.
 * A journal paper about [inducing a subject term taxonomy](/publication/subject_tracker_2021) has been published in *Decision Support Systems*, 2021.
 * A journal paper about the [software framework](/publication/expfinder_software_2021) for an expert finding algorithm, ExpFinder, has been published in *Software Impacts*, 2021.
