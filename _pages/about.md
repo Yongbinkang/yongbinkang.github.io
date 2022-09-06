@@ -27,11 +27,12 @@ I have also experience teaching bachelors and master courses in the capacity of 
     - Thesis: [Character Grouping Technique Using 3-D Neighbourhood Graphs in Raster Map](/publication/ICPR_1998)
 
 ## Recent Funding
-  
+  - 2022: Chief Investigator
+    - An AI governance framework for garbage truck-mounted machine vision systems; [A new research project in ARC Centre of Exellence for Automated Decision-Making and Society (ADM+S)](https://www.admscentre.org.au/an-ai-governance-framework-for-garbage-truck-mounted-machine-vision-systems/)
   - 2021: Chief Investigator
-    - Research and Development of a Solution for Question/Answer Generation and Assessment from Video using Natural Language Processing; [VidVersity](https://vidversity.com/) Fund Scheme
+    - Research and Development of a Solution for Question/Answer Generation and Assessment from Video using Natural Language Processing; [VidVersity](https://vidversity.com/)
   - 2020: Chief Investigator
-    - Development of Proof-of-Concept AI-based solution for SoA (Statement of Advice) Assessment; [Fourth Line](https://fourth-line.com.au/) Fund Scheme
+    - Development of Proof-of-Concept AI-based solution for SoA (Statement of Advice) Assessment; [Fourth Line](https://fourth-line.com.au/) 
   - 2018: Chief Investigator
     - Development of a deep-learning based solution for detecting corrosion in industrial assets using images captured from drones; Funded by [Robonomics AI](https://robonomicsai.com/)
   

@@ -5,13 +5,14 @@ title: "Latest News"
 ---
 
 {% include base_path %}
-
-* A journal paper, entitled ["Keyword aware influential community search in large attributed graphs"](/publication/community_search_2021) has been published in *Information Systems*, 2021.
+* A journal paper, entitle [Resilience in Online Mental Health Communities: Building a Resilience Dictionary with Semi-Automatic Text Analysis](/publication/jmir_2022) has been published in *JMIR Formative Research*, 2022.
+* A conference paper, entitled [Mobile IoT-RoadBot: An AI-powered Mobile IoT Solution for Real-Time Roadside Asset Management](/publication/mobicom_2022) has been accepted in *ACM Mobicom '22 (The 28th Annual International Conference On Mobile Computing And Networking)*, 2022.
+* A journal paper, entitled [ExpFinder: A hybrid model for expert finding from text-based expertise data](/publication/expfinder_2022), has been published in *Expert Systems with Application*, 2022.
 * A conference paper, entitled [SRAuditor: An Automated Assessment Tool for Statement of Advice Documents](/publication/SRAuditor_2022) has been accepted in *HICSS-55 (55th of Hawaii International Conference on System Sciences)*, 2022.
+* A journal paper, entitled ["Keyword aware influential community search in large attributed graphs"](/publication/community_search_2022) has been published in *Information Systems*, 2022.
 * A journal paper on [house price prediction](/publication/house_price_prediction_2021) using a graph embedding has been published in *Data Mining and Knowledge Discovery*, 2021.
 * A journal paper about [inducing a subject term taxonomy](/publication/subject_tracker_2021) has been published in *Decision Support Systems*, 2021.
 * A journal paper about the [software framework](/publication/expfinder_software_2021) for an expert finding algorithm, ExpFinder, has been published in *Software Impacts*, 2021.
-* A expert finding algorithm, named [ExpFinder](/publication/expfinder_2021), has been published in arXiv and under review in TKDE.
 * [XL-Sum, a large multilingual abstractive summarisation dataset](/publication/ACL_Text_Summarization_2021), has been published in *ACL (Association for Computational Linguistics) 2021*.
 * An industry research project, funded by [Vidversity](https://vidversity.com/), has been commenced from March 2021: Question/Answer Generation and Assessment from Video using Natural Language Processing (Chief investigator). 
 
