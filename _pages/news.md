@@ -5,6 +5,7 @@ title: "Latest News"
 ---
 
 {% include base_path %}
+* A journal paper, entitle [TopicTracker: A platform for topic trajectory identification and visualisation](/publication/topicTracker_2023) has been published in *SoftwareX*, 2023.
 * A journal paper, entitle [Culture, Strengths, and Risk: The Language of Pre-Sentence Reports in Indigenous Sentencing Courts and Mainstream Courts](/publication/justice_2023) has been published in *Criminal Justice and Behavior*, 2023.
 * A journal paper, entitle [Resilience in Online Mental Health Communities: Building a Resilience Dictionary with Semi-Automatic Text Analysis](/publication/jmir_2022) has been published in *JMIR Formative Research*, 2022.
 * A conference paper, entitled [Mobile IoT-RoadBot: An AI-powered Mobile IoT Solution for Real-Time Roadside Asset Management](/publication/mobicom_2022) has been accepted in *ACM Mobicom '22 (The 28th Annual International Conference On Mobile Computing And Networking)*, 2022.
