@@ -5,6 +5,7 @@ title: "Latest News"
 ---
 
 {% include base_path %}
+* A journal paper, entitled [VideoDL: Video-Based Digital Learning Framework Using AI Question Generation and Answer Assessment](/publication/videoDL_2023) has been published in *International Journal of Advanced Corporate Learning (iJAC)*, 2023.
 * A journal paper, entitled [TopicTracker: A platform for topic trajectory identification and visualisation](/publication/topicTracker_2023) has been published in *SoftwareX*, 2023.
 * A journal paper, entitled [Culture, Strengths, and Risk: The Language of Pre-Sentence Reports in Indigenous Sentencing Courts and Mainstream Courts](/publication/justice_2023) has been published in *Criminal Justice and Behavior*, 2023.
 * A journal paper, entitled [Resilience in Online Mental Health Communities: Building a Resilience Dictionary with Semi-Automatic Text Analysis](/publication/jmir_2022) has been published in *JMIR Formative Research*, 2022.
